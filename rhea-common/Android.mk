@@ -19,7 +19,7 @@ LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 LOCAL_MODULE := Calculator
 LOCAL_MODULE_OWNER := cyanogen
-LOCAL_SRC_FILES := proprietary/app/Camera2/Camera2.apk
+LOCAL_SRC_FILES := proprietary/app/Calculator/Calculator.apk
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := $(COMMON_ANDROID_PACKAGE_SUFFIX)
 LOCAL_MODULE_CLASS := APPS
