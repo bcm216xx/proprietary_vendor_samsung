@@ -120,7 +120,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nevisp/proprietary/lib/libusb_config.so:system/lib/libusb_config.so \
     vendor/samsung/nevisp/proprietary/lib/libVCOS.so:system/lib/libVCOS.so \
     vendor/samsung/nevisp/proprietary/lib/libwvdrm_L3.so:system/lib/libwvdrm_L3.so \
-    vendor/samsung/nevisp/proprietary/lib/libwvm.so:system/lib/libwvm.so \
     vendor/samsung/nevisp/proprietary/lib/libWVStreamControlAPI_L3.so:system/lib/libWVStreamControlAPI_L3.so \
     vendor/samsung/nevisp/proprietary/lib/libV3D_csc.so:system/lib/libV3D_csc.so \
     vendor/samsung/nevisp/proprietary/lib/libV3D_driver.so:system/lib/libV3D_driver.so \
