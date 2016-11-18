@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+                <title>Dev-Host.org - The Ulrimate Free File Hosting Service</title>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="description" content="Desc" />
+        <meta name="keywords" content="Keywords" />
+        <meta name="revisit-after" content="5 Days" />
+        <meta name="robots" content="All" />
+
+				<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+        <script type="text/javascript" src="/assets/js/postmessage.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.progressbar.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.colorbox.js"></script>
+<script type="text/javascript" src="/assets/js/dev-host.js"></script>
+
+        <link type="text/css" href="/assets/css/reset.css" rel="stylesheet" media="screen" />
+<link type="text/css" href="http://fonts.googleapis.com/css?family=Terminal+Dosis+Light|Inconsolata|PT+Sans|Raleway:100&amp;subset=latin,latin-ext&amp;v2" rel="stylesheet" media="screen" />
+<link type="text/css" href="/assets/css/dev-host.css" rel="stylesheet" media="screen" />
+<link type="text/css" href="/assets/css/colorbox.css" rel="stylesheet" media="screen" />
+    </head>
+    <body>
+	<center>
+		<br />
+				<h1 style='font-size: 20px;'>It appears you are trying to directly download a file which isn't permitted at this time, please <a href="http://d-h.st/IzR1">Click Here</a> to go to that files download page to initiate your download.</h1>
+			</center>
+      <!--div id="header">
+          ?= $header; ?>
+      </div>
+      <div id="content">
+          ?= $content ?>
+      </div>
+      <div id="footer">
+          ?= $footer; ?>
+      </div-->
+    </body>
+</html>
