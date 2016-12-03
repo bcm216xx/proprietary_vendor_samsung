@@ -27,6 +27,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/corsica/proprietary/bin/gps.cer:system/bin/gps.cer \
     vendor/samsung/corsica/proprietary/bin/gpslogd:system/bin/gpslogd \
     vendor/samsung/corsica/proprietary/bin/immvibed:system/bin/immvibed \
+    vendor/samsung/corsica/proprietary/bin/lpmkey:system/bin/lpmkey \
+    vendor/samsung/corsica/proprietary/bin/playlpm:system/bin/playlpm \
     vendor/samsung/corsica/proprietary/bin/macloader:system/bin/macloader \
     vendor/samsung/corsica/proprietary/bin/mttlogger:system/bin/mttlogger \
     vendor/samsung/corsica/proprietary/bin/npsmobex:system/bin/npsmobex \

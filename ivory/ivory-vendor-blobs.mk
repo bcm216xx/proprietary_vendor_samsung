@@ -128,6 +128,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/gps.cer:system/bin/gps.cer \
     $(LOCAL_PATH)/proprietary/gpslogd:system/bin/gpslogd \
     $(LOCAL_PATH)/proprietary/immvibed:system/bin/immvibed \
+    $(LOCAL_PATH)/proprietary/lpmkey:system/bin/lpmkey \
+    $(LOCAL_PATH)/proprietary/playlpm:system/bin/playlpm \
     $(LOCAL_PATH)/proprietary/macloader:system/bin/macloader \
     $(LOCAL_PATH)/proprietary/mttlogger:system/bin/mttlogger \
     $(LOCAL_PATH)/proprietary/npsmobex:system/bin/npsmobex \
