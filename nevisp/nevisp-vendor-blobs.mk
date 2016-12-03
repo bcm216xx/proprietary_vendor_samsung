@@ -25,11 +25,13 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nevisp/proprietary/bin/gps.cer:system/bin/gps.cer \
     vendor/samsung/nevisp/proprietary/bin/gpslogd:system/bin/gpslogd \
     vendor/samsung/nevisp/proprietary/bin/immvibed:system/bin/immvibed \
+    vendor/samsung/nevisp/proprietary/bin/lpmkey:system/bin/lpmkey \
     vendor/samsung/nevisp/proprietary/bin/macloader:system/bin/macloader \
     vendor/samsung/nevisp/proprietary/bin/mfgloader:system/bin/mfgloader \
     vendor/samsung/nevisp/proprietary/bin/mttlogger:system/bin/mttlogger \
     vendor/samsung/nevisp/proprietary/bin/npsmobex:system/bin/npsmobex \
     vendor/samsung/nevisp/proprietary/bin/rild:system/bin/rild \
+    vendor/samsung/nevisp/proprietary/bin/playlpm:system/bin/playlpm \
     vendor/samsung/nevisp/proprietary/bin/p2p_supplicant:system/bin/p2p_supplicant \
     vendor/samsung/nevisp/proprietary/bin/wlandutservice:system/bin/wlandutservice 
 #etc
