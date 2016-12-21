@@ -57,11 +57,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nevisp/proprietary/lib/hw/camera.rhea.so:system/lib/hw/camera.rhea.so \
     vendor/samsung/nevisp/proprietary/lib/hw/gralloc.rhea.so:system/lib/hw/gralloc.rhea.so \
     vendor/samsung/nevisp/proprietary/lib/hw/hwcomposer.rhea.so:system/lib/hw/hwcomposer.rhea.so \
-    vendor/samsung/nevisp/proprietary/lib/modules/VoiceSolution.ko:system/lib/modules/VoiceSolution.ko \
-    vendor/samsung/nevisp/proprietary/lib/soundfx/libaudiopreprocessing.so:system/lib/soundfx/libaudiopreprocessing.so \
-    vendor/samsung/nevisp/proprietary/lib/soundfx/libbundlewrapper.so:system/lib/soundfx/libbundlewrapper.so \
-    vendor/samsung/nevisp/proprietary/lib/soundfx/libdownmix.so:system/lib/soundfx/libdownmix.so \
-    vendor/samsung/nevisp/proprietary/lib/soundfx/libreverbwrapper.so:system/lib/soundfx/libreverbwrapper.so \
     vendor/samsung/nevisp/proprietary/lib/libaacdecoderwrapper.so:system/lib/libaacdecoderwrapper.so \
     vendor/samsung/nevisp/proprietary/lib/libacdapi_azi.so:system/lib/libacdapi_azi.so \
     vendor/samsung/nevisp/proprietary/lib/libasound.so:system/lib/libasound.so \

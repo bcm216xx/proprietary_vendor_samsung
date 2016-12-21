@@ -74,8 +74,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/rild:system/bin/rild \
     $(LOCAL_PATH)/proprietary/BCM4334B0_002.001.013.0602.0616.hcd:system/bin/BCM4334B0_002.001.013.0602.0616.hcd \
     $(LOCAL_PATH)/proprietary/libGLES_rhea.so:system/lib/egl/libGLES_rhea.so \
-    $(LOCAL_PATH)/proprietary/VoiceSolution.ko:system/lib/modules/VoiceSolution.ko \
-    $(LOCAL_PATH)/proprietary/libv4a_fx_ics.so:system/lib/soundfx/libv4a_fx_ics.so
+    $(LOCAL_PATH)/proprietary/libv4a_fx_ics.so:system/lib/libv4a_fx_ics.so
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/libaacdecoderwrapper.so:system/lib/libaacdecoderwrapper.so \
