@@ -102,7 +102,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/corsica/proprietary/lib/libVCE_imageconv.so:system/lib/libVCE_imageconv.so \
     vendor/samsung/corsica/proprietary/lib/libVCE_csl.so:system/lib/libVCE_csl.so \
     vendor/samsung/corsica/proprietary/lib/libVCE_driver.so:system/lib/libVCE_driver.so \
-    vendor/samsung/corsica/proprietary/lib/modules/VoiceSolution.ko:system/lib/modules/VoiceSolution.ko \
     vendor/samsung/corsica/proprietary/lib/hw/audio.primary.rhea.so:system/lib/hw/audio.primary.rhea.so \
     vendor/samsung/corsica/proprietary/lib/hw/camera.rhea.so:system/lib/hw/camera.rhea.so \
     vendor/samsung/corsica/proprietary/lib/hw/gralloc.rhea.so:system/lib/hw/gralloc.rhea.so \
